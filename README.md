@@ -2,7 +2,7 @@
 **Data Analysis : End to End Analysis**
 ## Dashboard
 
-![Inventory Optimization Dashboard](https://github.com/aryansingh2206/Inventory-Optimization-Analysis/blob/main/inventory%20dashboard%20file.png?raw=true)
+![Inventory Optimization Dashboard](https://github.com/aryansingh2206/Inventory-Optimization-Analysis/blob/main/Screenshot%202025-11-20%20133235.png)
 
 
 This project presents an end-to-end analysis of supplier and inventory data, aimed at generating actionable insights to optimize profitability, pricing strategies, and inventory management.
