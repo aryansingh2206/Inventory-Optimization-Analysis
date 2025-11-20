@@ -1,6 +1,9 @@
 # Supplier,Pricing and Inventory Optimization Analysis
 **Data Analysis : End to End Analysis**
-<img width="1159" height="656" alt="image" src="https://github.com/user-attachments/assets/7a75b323-8168-4a36-9f5d-f5be52d45893" />
+## Dashboard
+
+![Inventory Optimization Dashboard](https://github.com/aryansingh2206/Inventory-Optimization-Analysis/blob/main/inventory%20dashboard%20file.png?raw=true)
+
 
 This project presents an end-to-end analysis of supplier and inventory data, aimed at generating actionable insights to optimize profitability, pricing strategies, and inventory management.
 By analyzing over 10 million rows of supplier and purchase data, this project identifies high-performing and low-performing suppliers, evaluates profit margins, and uncovers 
